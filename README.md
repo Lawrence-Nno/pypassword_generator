@@ -1,7 +1,7 @@
 # PyPassword Generator
 #### _This python script generates a random password, the length of the password depends on the input it received_
 
-![Treasure](https://github.com/Lawrence-Nno/Rock_Paper_Scissors_Game/blob/main/rock_paper_scissors.png)
+![Pypassword Generator Image](https://github.com/Lawrence-Nno/pypassword_generator/blob/main/pypassword_generator.png)
 
 Pypassword generator is a fun project I coded when I was learning python. I decided to publish some of my earlier codes during my python journey. Hence this!
 _**Edit!!**_ I now have a much better standalone GUI password generator app, but that will be uploaded much later.
